@@ -1,4 +1,4 @@
-# Machine-Learning-with-Neural-Network [CSC A2]
+# Machine-Learning-with-Neural-Network [CSC311 A2]
 This is a project from the Machine Learning course from the University of Toronto.
 
 ## Linear Regression with Feature Mapping
